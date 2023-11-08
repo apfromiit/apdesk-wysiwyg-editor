@@ -1,1 +1,1 @@
-# apdesk-wysiwyg-editor
+# APDesk WYSIWYG Editor
