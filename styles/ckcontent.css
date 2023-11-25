@@ -1,6 +1,6 @@
 /*
  * CKEditor 5 (v40.1.0) content styles.
- * Generated on Thu, 16 Nov 2023 06:27:12 GMT.
+ * Generated on Fri, 24 Nov 2023 10:36:46 GMT.
  * For more information, check out https://ckeditor.com/docs/ckeditor5/latest/installation/advanced/content-styles.html
  */
 
@@ -274,42 +274,6 @@ margin-left: -15px;
 .ck-editor__editable.ck-content .todo-list .todo-list__label.todo-list__label_without-description input[type=checkbox] {
   position: absolute;
 }
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ol {
-  list-style-type: decimal;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ol ol {
-  list-style-type: lower-latin;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ol ol ol {
-  list-style-type: lower-roman;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ol ol ol ol {
-  list-style-type: upper-latin;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ol ol ol ol ol {
-  list-style-type: upper-roman;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ul {
-  list-style-type: disc;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ul ul {
-  list-style-type: circle;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ul ul ul {
-  list-style-type: square;
-}
-/* @ckeditor/ckeditor5-list/theme/list.css */
-.ck-content ul ul ul ul {
-  list-style-type: square;
-}
 /* @ckeditor/ckeditor5-image/theme/imageresize.css */
 .ck-content img.image_resized {
   height: auto;
@@ -402,6 +366,42 @@ margin-left: -15px;
 .ck-content .pen-green {
   color: var(--ck-highlight-pen-green);
   background-color: transparent;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ol {
+  list-style-type: decimal;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ol ol {
+  list-style-type: lower-latin;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ol ol ol {
+  list-style-type: lower-roman;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ol ol ol ol {
+  list-style-type: upper-latin;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ol ol ol ol ol {
+  list-style-type: upper-roman;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ul {
+  list-style-type: disc;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ul ul {
+  list-style-type: circle;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ul ul ul {
+  list-style-type: square;
+}
+/* @ckeditor/ckeditor5-list/theme/list.css */
+.ck-content ul ul ul ul {
+  list-style-type: square;
 }
 /* @ckeditor/ckeditor5-image/theme/imagestyle.css */
 .ck-content .image-style-block-align-left,
