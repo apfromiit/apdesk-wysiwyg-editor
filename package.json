@@ -1,13 +1,13 @@
 {
   "name": "apdesk-wysiwyg-editor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "APDesk WYSIWYG Editor",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apfromiit/apdesk-wysiwyg-editor.git"
   },
-  "author": "Periyasamy",
+  "author": "apdesk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/apfromiit/apdesk-wysiwyg-editor/issues"
