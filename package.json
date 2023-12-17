@@ -1,6 +1,6 @@
 {
   "name": "apdesk-wysiwyg-editor",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "APDesk WYSIWYG Editor",
   "main": "index.js",
   "repository": {
